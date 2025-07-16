@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <header className={`header ${isScrolled ? 'scrolled' : ''}`}>
       <div className="logo">
-        <a href="/Home"><img src={Logo} alt="Logo" /></a>
+        <a href="/"><img src={Logo} alt="Logo" /></a>
       </div>
       <nav className="nav">
         <ul
@@ -26,7 +26,7 @@ export default function Header() {
           onMouseLeave={() => isScrolled && setIsMenuOpen(false)}
         >
 
-          <li><a href="/Home">Home</a></li>
+          <li><a href="/">Home</a></li>
           <li><a href="/Portfolio">Portfólio</a></li>
           <li><a href="/Services">Serviços</a></li>
           <li><a href="/aboutus">Sobre</a></li>

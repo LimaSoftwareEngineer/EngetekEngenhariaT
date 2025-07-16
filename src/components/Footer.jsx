@@ -23,7 +23,7 @@ export default function Footer() {
             <div class="col-md-4" style={{ textAlign: "end" }}>
               <h5>Links Rápidos</h5>
               <ul class="list-unstyled">
-                <li><a href="/Home" class="text-decoration-none">Home</a></li>
+                <li><a href="/" class="text-decoration-none">Home</a></li>
                 <li><a href="/Portfolio" class="text-decoration-none">Portfólio</a></li>
                 <li><a href="/Services" class="text-decoration-none">Serviços</a></li>
                 <li><a href="/aboutus" class="text-decoration-none">Sobre</a></li>
