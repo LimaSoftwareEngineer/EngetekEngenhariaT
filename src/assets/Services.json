@@ -1,0 +1,72 @@
+{
+  "structural": {
+    "title": "Construções e reformas de Galpões comerciais e industriais",
+    "description": "Desenvolvemos projetos estruturais completos e otimizados para edificações de todos os portes. Utilizamos modelagem 3D e softwares de cálculo avançados para garantir a segurança, economia e eficiência da sua obra, desde a fundação até a estrutura final.",
+    "features": [
+      "Cálculo e dimensionamento de estruturas em concreto, metálicas e madeira",
+      "Análise de cargas e esforços",
+      "Laudos e reforços estruturais",
+      "Compatibilização com projetos arquitetônicos"
+    ]
+  },
+  "geotechnical": {
+    "title": " Construções e reformas de Prédios comerciais e corporativos",
+    "description": "Oferecemos estudos geotécnicos aprofundados para análise do solo e determinação das melhores soluções de fundação para o seu empreendimento. Nosso objetivo é garantir a estabilidade e segurança da obra, prevenindo problemas futuros.",
+    "features": [
+      "Sondagens e ensaios de solo",
+      "Projetos de fundações superficiais e profundas",
+      "Estabilidade de taludes e contenções",
+      "Mapeamento geológico-geotécnico"
+    ]
+  },
+  "hydraulics": {
+    "title": "Construção para investidores",
+    "description": "Projetamos sistemas hidráulicos e sanitários eficientes e em conformidade com as normas, para edificações residenciais, comerciais e industriais. Incluímos sistemas de água fria, quente, esgoto e águas pluviais, visando a economia e a sustentabilidade.",
+    "features": [
+      "Dimensionamento de redes de água e esgoto",
+      "Sistemas de reuso de água e captação de chuva",
+      "Drenagem urbana e rural",
+      "Projetos de prevenção e combate a incêndio"
+    ]
+  },
+  "electrical": {
+    "title": "Manutenções e reformas prediai",
+    "description": "Nossa equipe projeta e executa instalações elétricas seguras e eficientes, desde a entrada de energia até a distribuição interna, para diversos tipos de edificações. Consideramos a carga, demanda e futuras expansões, garantindo a conformidade com as normas.",
+    "features": [
+      "Projetos elétricos residenciais e comerciais",
+      "Instalação de SPDA (Para-raios)",
+      "Estudos de demanda e eficiência energética",
+      "Automação e sistemas de controle"
+    ]
+  },
+  "safety": {
+    "title": "Obras públicas",
+    "description": "Implementamos e gerenciamos programas de segurança do trabalho para sua empresa, garantindo a proteção dos colaboradores e a conformidade com as Normas Regulamentadoras (NRs). Nosso objetivo é criar ambientes de trabalho mais seguros e produtivos.",
+    "features": [
+      "Elaboração de PPRA, PCMSO, LTCAT, laudos",
+      "Treinamentos e capacitações em segurança",
+      "Análise de riscos e inspeções de segurança",
+      "Gestão de CIPA e SESMT"
+    ]
+  },
+  "management": {
+    "title": "Planejamento e Gerenciamento de obra",
+    "description": "Oferecemos gerenciamento completo de obras, desde o planejamento inicial até a entrega final. Controlamos prazos, orçamentos, qualidade e recursos, garantindo que seu projeto seja concluído com sucesso, minimizando imprevistos e otimizando investimentos.",
+    "features": [
+      "Planejamento e cronograma da obra",
+      "Controle de custos e orçamentos",
+      "Fiscalização e acompanhamento técnico",
+      "Gestão de fornecedores e equipes"
+    ]
+  },
+  "assistent": {
+    "title": "Assessoria e Consultoria técnica",
+    "description": "Oferecemos gerenciamento completo de obras, desde o planejamento inicial até a entrega final. Controlamos prazos, orçamentos, qualidade e recursos, garantindo que seu projeto seja concluído com sucesso, minimizando imprevistos e otimizando investimentos.",
+    "features": [
+      "Planejamento e cronograma da obra",
+      "Controle de custos e orçamentos",
+      "Fiscalização e acompanhamento técnico",
+      "Gestão de fornecedores e equipes"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "home",
+    "src": "src/assets/logos/LOGO COM FUNDO DE ROCHA VARIÁVEL.png",
+    "title": "Bem-vindo ao Nosso Site",
+    "subtitle": "Descubra Coisas Incríveis",
+    "text": "Junte-se a nós nesta jornada.",
+    "width": "100%",
+    "height": "400px"
+  },
+  {
+    "id": "aboutUs",
+    "src": "src/assets/logos/LOGO COM FUNDO DE ROCHA VARIÁVEL.png",
+    "title": "Sobre a Engetek",
+    "subtitle": "",
+    "text": "Saiba mais sobre nossa história.",
+    "width": "100%",
+    "height": "400px"
+  },
+  {
+    "id": "contact",
+    "src": "src/assets/images/contactBanner.png",
+    "title": "Contate-nos",
+    "subtitle": "",
+    "text": "Entre em contato já!.",
+    "width": "100%",
+    "height": "300px"
+  },
+  {
+    "id": "services",
+    "src": "src/assets/images/servicosBanner.png",
+    "title": "Descubra Como Podemos Ajudar",
+    "subtitle": "",
+    "text": "Verifique nossos serviços oferecidos e peça já seu orçamento gratuito.",
+    "width": "100%",
+    "height": "600px"
+  },
+  {
+    "id": "portfolio",
+    "src": "src/assets/logos/FUNDO ROCHA.png",
+    "title": "PORTIFÓLIO DE OBRAS",
+    "subtitle": "ENGETEK ENGENHARIA E TECNOLOGIA",
+    "text": "",
+    "width": "100%",
+    "height": "440px"
+  }
+]

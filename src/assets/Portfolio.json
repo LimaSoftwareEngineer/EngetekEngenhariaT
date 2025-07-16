@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "title": "Galpão Industrial Sustennutri",
+    "description": "Galpão industrial com área construída de 1.549,86 m², localizado na Sustennutri Nutrição Animal. Valor da obra: R$ 2.800.000,00. Concluído em 2022.",
+    "category": [
+      "Industrial"
+    ],
+    "image": "src/assets/portfolio/SUSTENNUTRI NUTRIÇÃO ANIMAL.png"
+  },
+  {
+    "id": 2,
+    "title": "Praça das Camélias",
+    "description": "Praça pública em Porto Velho/RO com área construída de 3.934,9 m². Inclui quadra poliesportiva, pista de skate, playground, pergolados e estação de treinamento. Valor da obra: R$ 987.795,72. Concluída em 2023 após 6 meses de obra.",
+    "category": [
+      "Obra Pública"
+    ],
+    "image": "src/assets/portfolio/PRAÇA DAS CAMÉLIAS.png"
+  },
+  {
+    "id": 3,
+    "title": "Laboratório Institucional IFRO",
+    "description": "Laboratório institucional no Instituto Federal de Rondônia com área construída de 202,80 m². Valor da obra: R$ 232.767,30. Concluído em 2022.",
+    "category": [
+      "Laboratório"
+    ],
+    "image": "src/assets/portfolio/INSTITUTO FEDERAL DE RONDÔNIA.png"
+  },
+  {
+    "id": 4,
+    "title": "Residência Alphaville",
+    "description": "Residência no Condomínio Alphaville com área construída de 287,41 m². Valor da obra: R$ 861.322,18. Concluída em 2020.",
+    "category": [
+      "Residencial"
+    ],
+    "image": "src/assets/portfolio/CONDOMÍNIO ALPHAVILLE.png"
+  },
+  {
+    "id": 5,
+    "title": "Residência Ecoville",
+    "description": "Residência no Condomínio Ecoville com área construída de 628,00 m². Valor da obra: R$ 3.510.874,00. Concluída em 2022.",
+    "category": [
+      "Residencial"
+    ],
+    "image": "src/assets/portfolio/CONDOMÍNIO ECOVILLE.png"
+  },
+  {
+    "id": 6,
+    "title": "Reforma Comercial Calzoon",
+    "description": "Reforma comercial da Calzoon Suos e Calzoones com área construída de 63,59 m². Inclui cozinha industrial, comunicação visual, cabeamento estruturado, mobiliário sob medida e instalações diversas. Valor da obra: R$ 91.358,28. Concluída em 2022 após 3 meses de obra.",
+    "category": [
+      "Reforma Comercial",
+      "Comercial"
+    ],
+    "image": "src/assets/portfolio/CALZOON SUCOS E CALZOONES.png"
+  },
+  {
+    "id": 7,
+    "title": "Reforma Comercial Gigakids",
+    "description": "Reforma comercial no Porto Velho Shopping (Gigakids) com área construída de 262,87 m². Inclui execução de PPCI, comunicação visual, cabeamento estruturado, mobiliário sob medida, instalações diversas e climatização fan coil. Valor da obra: R$ 95.578,73. Concluída em 2021 após 3 meses de obra.",
+    "category": [
+      "Reforma Comercial",
+      "Comercial"
+    ],
+    "image": "src/assets/portfolio/GIGAKIDS (PORTO VELHO SHOPPING).png"
+  },
+  {
+    "id": 8,
+    "title": "Reforma Comercial Laundromat",
+    "description": "Reforma comercial da Laundromat Lavanderia com área construída de 76,12 m². Inclui comunicação visual, revitalização geral, esquadrias de vidro, sistemas de exaustores e instalações diversas. Valor da obra: R$ 37.410,36. Concluída em 2021 após 2 meses de obra.",
+    "category": [
+      "Reforma Comercial",
+      "Comercial"
+    ],
+    "image": "src/assets/portfolio/LAUNDROMAT LAVANDERIA.png"
+  },
+  {
+    "id": 9,
+    "title": "Revitalização Half-Street",
+    "description": "Revitalização do Skate Parque em Porto Velho/RO com área construída de 192,62 m². Inclui pintura acrílica, pintura personalizada, limpeza com jato e restauração de grades. Valor da obra: R$ 29.324,20. Concluída em 2021 após 15 dias de obra.",
+    "category": [
+      "Obra Pública"
+    ],
+    "image": "src/assets/portfolio/SKATE PARQUE PORTO VELHO.png"
+  },
+  {
+    "id": 10,
+    "title": "Sanitário Público Skate Parque",
+    "description": "Sanitário público no Skate Parque em Porto Velho/RO com área construída de 36,50 m². Valor da obra: R$ 85.333,38. Concluído em 2022.",
+    "category": [
+      "Obra Pública"
+    ],
+    "image": "src/assets/portfolio/SKATE PARQUE PORTO VELHO SANITARIO PUB.png"
+  },
+  {
+    "id": 11,
+    "title": "Substituição em Subestação Major Guapindaia",
+    "description": "Substituição em subestação na E.E.M. Major Guapindaia. Valor da obra: R$ 116.652,98. Concluída em 2023.",
+    "category": [
+      "Manutenção Predial"
+    ],
+    "image": "src/assets/portfolio/E. E. E. M. MAJOR GUAPINDAIA.png"
+  },
+  {
+    "id": 12,
+    "title": "Ampliação Industrial Sustennutri",
+    "description": "Ampliação industrial na Sustennutri Nutrição Animal com área construída de 287,12 m². Valor da obra: R$ 186.000,00. Concluída em 2023.",
+    "category": [
+      "Industrial"
+    ],
+    "image": "src/assets/portfolio/SUSTENNUTRI NUTRIÇÃO ANIMAL2.png"
+  },
+  {
+    "id": 13,
+    "title": "Cercamento Sustennutri",
+    "description": "Execução de cercamento na Sustennutri Nutrição Animal com perímetro construído de 370 m. Inclui fundação tipo broca, muro de concreto, mureta em bloco de concreto e tela galvanizada 8x8 cm. Valor da obra: R$ 84.723,32. Concluída em 2023 após 45 dias de obra.",
+    "category": [
+      "Cercamento"
+    ],
+    "image": "src/assets/portfolio/SUSTENNUTRI NUTRIÇÃO ANIMAL4.png"
+  },
+  {
+    "id": 14,
+    "title": "Reforma Residencial Fachada Ligia",
+    "description": "Reforma da fachada no Condomínio Ligia com área construída de 144 m². Valor da obra: R$ 50.000,00. Concluída em 2023.",
+    "category": [
+      "Residencial"
+    ],
+    "image": "src/assets/portfolio/FACHADA CONDOMÍNIO LÍGIA.png"
+  },
+  {
+    "id": 15,
+    "title": "Ampliação Industrial Sustennutri",
+    "description": "Reforma da fachada no Condomínio Ligia com área construída de 144 m². Valor da obra: R$ 50.000,00. Concluída em 2023.",
+    "category": [
+      "Industrial"
+    ],
+    "image": "src/assets/portfolio/SUSTENNUTRI NUTRIÇÃO ANIMAL3.png"
+  },
+  {
+    "id": 16,
+    "title": "INSTALAÇÃO DE GRADIL",
+    "description": "Instalação de gradil na Sustennutri Nutrição Animal com perímetro de 150 m. Inclui fundação e estrutura de gradil galvanizado. Valor da obra: R$ 45.000,00. Concluída em 2023.",
+    "category": [
+      "Cercamento"
+    ],
+    "image": "src/assets/portfolio/SKATE PARQUE PORTO VELHO3.png"
+  },
+  {
+    "id": 17,
+    "title": "CONSTRUÇÃO HALF-PIPE",
+    "description": "Construção de half-pipe no Skate Parque em Porto Velho/RO com área de 50 m². Inclui estrutura de concreto e acabamento. Valor da obra: R$ 30.000,00. Concluída em 2023.",
+    "category": [
+      "Obra Pública"
+    ],
+    "image": "src/assets/portfolio/SKATE PARQUE PORTO VELHO2.png"
+  }
+]
