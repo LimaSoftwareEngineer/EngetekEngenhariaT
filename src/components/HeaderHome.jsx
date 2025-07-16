@@ -27,10 +27,10 @@ export default function Header() {
         >
 
           <li><a href="/">Home</a></li>
-          <li><a href="/Portfolio">Portfólio</a></li>
-          <li><a href="/Services">Serviços</a></li>
+          <li><a href="/portfolio">Portfólio</a></li>
+          <li><a href="/services">Serviços</a></li>
           <li><a href="/aboutus">Sobre</a></li>
-          <li><a href="/Contact">Contato</a></li>
+          <li><a href="/contact">Contato</a></li>
         </ul>
         <div
           className={`hamburger ${isScrolled ? 'visible' : ''}`}

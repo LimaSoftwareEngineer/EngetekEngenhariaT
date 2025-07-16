@@ -10,13 +10,13 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/Portfolio" element={<Portfolio />} />
-        <Route path="/Services" element={<Servicos />} />
-        <Route path="/AboutUs" element={<Sobre />} />
-        <Route path="/Contact" element={<Contato />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/services" element={<Servicos />} />
+        <Route path="/aboutus" element={<Sobre />} />
+        <Route path="/contact" element={<Contato />} />
       </Routes>
     </Router>
   );
 }
- 
+
 export default App;

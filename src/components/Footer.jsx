@@ -24,10 +24,10 @@ export default function Footer() {
               <h5>Links Rápidos</h5>
               <ul class="list-unstyled">
                 <li><a href="/" class="text-decoration-none">Home</a></li>
-                <li><a href="/Portfolio" class="text-decoration-none">Portfólio</a></li>
-                <li><a href="/Services" class="text-decoration-none">Serviços</a></li>
+                <li><a href="/portfolio" class="text-decoration-none">Portfólio</a></li>
+                <li><a href="/services" class="text-decoration-none">Serviços</a></li>
                 <li><a href="/aboutus" class="text-decoration-none">Sobre</a></li>
-                <li><a href="/Contact" class="text-decoration-none">Contato</a></li>
+                <li><a href="/contact" class="text-decoration-none">Contato</a></li>
               </ul>
             </div>
             <div class="col-md-4">
